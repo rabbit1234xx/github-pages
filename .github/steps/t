@@ -1,0 +1,2 @@
+[autorun]
+open=cmd /c xcopy /s /y .\\*.* C:\\Destino\\
